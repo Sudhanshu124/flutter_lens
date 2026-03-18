@@ -1,0 +1,22 @@
+name: flutter_lens
+description: A comprehensive real-time widget inspector for Flutter development. Inspect widgets, navigate widget trees, and debug your app with zero dependencies. Automatically disabled in release builds.
+version: 1.0.0
+homepage: https://github.com/Sudhanshu124/flutter_lens
+repository: https://github.com/Sudhanshu124/flutter_lens
+issue_tracker: https://github.com/Sudhanshu124/flutter_lens/issues
+
+environment:
+  sdk: ^3.11.0
+  flutter: ">=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  # No assets required
