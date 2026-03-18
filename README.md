@@ -272,16 +272,7 @@ Some widgets may not expose all properties. FlutterLens extracts:
 
 Custom widgets may have limited property extraction.
 
-## 🗺️ Roadmap
 
-Future enhancements:
-- [ ] Performance metrics (build/paint times)
-- [ ] Theme information extraction
-- [ ] Accessibility info
-- [ ] Multi-select comparison
-- [ ] Visual measurement tools
-- [ ] Custom theme colors
-- [ ] Export to file (not just clipboard)
 
 ## 🤝 Contributing
 
